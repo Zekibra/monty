@@ -28,4 +28,4 @@ Files are compiled this way:
 ***$ gcc -Wall -Werror -Wextra -pedantic *.c -o monty***
 
 # **Authors**
-[Mohammed Bheser](https://github.com/123mame/)
+[Abdurehman Bheser](https://github.com/Zekibra/)
